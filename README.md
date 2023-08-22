@@ -1,14 +1,23 @@
 # JS Frame
 the JS Frame is a simple tool that makes a 'iframe' on your code with only JS
 
+# Github Gist
+https://gist.github.com/EduardoPlayss5/24674edc2843ba61e0c321144470ae87
+
 # How to use
 it's simple.
+
+# Download
+1. Download the file as zip
+2. Extract the zip file
+3. Open extrated folder
+4. Open README.md and follow steps
 
 ```markdown
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://www.github.com/EduardoPlayss5/js_frame/js_frame_v2.js"></script>
+    <script src="js_frame_v2.js"></script>
     <title>Example of using JS Frame</title>
 </head>
 <body>
